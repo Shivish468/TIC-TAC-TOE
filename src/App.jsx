@@ -6,9 +6,7 @@ function App() {
 
   return (
     <>
-      <div>
-        <Grid numberofCards={9} />
-      </div>
+      <Grid numberofCards={9} />
     </>
   )
 }
